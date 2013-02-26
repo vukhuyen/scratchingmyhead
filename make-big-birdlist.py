@@ -15,6 +15,8 @@ Missouri
 Kansas
 Maine
 Michigan
+Washington
+Oregon
 New York""".splitlines()
 
 import random, datetime
