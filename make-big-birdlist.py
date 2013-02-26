@@ -17,6 +17,7 @@ Maine
 Michigan
 Washington
 Oregon
+Texas
 New York""".splitlines()
 
 import random, datetime
